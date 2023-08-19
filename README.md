@@ -34,3 +34,14 @@ This project leverages the following tech stacks:
   - Makefile
   - pre-commit hooks
   - CI/CD
+
+# Prototyping part
+- build prototype code in notebook
+- see what work, what not
+# Experimenting part
+- identify params and metrics to experiment
+- log experiments in MLFlow
+  
+# Deployment part
+- create FastAPI for REST API Endpoint
+
